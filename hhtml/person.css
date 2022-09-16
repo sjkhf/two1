@@ -1,0 +1,75 @@
+.picture{
+    margin: auto;
+    width: 800px;
+    height: 1100px;
+    margin-top: -1000px;
+    border:3px solid black ;
+    background: url(./img/jjie1.jpg)no-repeat ;
+}
+.header{
+    margin: 200px auto;
+    width: 100px;
+    height: 135px;
+    background-color: aqua;
+    float: left;
+    margin: 90px;
+
+}
+#p1{
+    text-align: center;
+    line-height: 100px;
+}
+#ind{
+    margin-top: -60px;
+    margin-left: 20px;
+}
+.box1{
+    width: 180px;
+    height: 160px;
+    border: 2px solid black;
+    margin-top: 370px;
+    margin-left: 50px;
+}
+.box2{
+    width: 180px;
+    height: 140px;
+    border: 2px solid black;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.box3{
+    width: 180px;
+    height: 140px;
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-left: 600px;
+    
+}
+.box4{
+    width: 500px;
+    height: 700px;
+    border: 1px solid black;
+    margin-top: -650px;
+    margin-left: 280px;
+    
+}
+.box5{
+    width: 180px;
+    height: 140px;
+    
+    margin-top: -100px;
+    margin-left: 290px;
+    
+}
+#game{
+    color: black;
+    font-size: 3px;
+    font-family: "宋体";
+    font-weight: 900;
+}
+#stu{
+    color: black;
+    font-size: 3px;
+    font-family: "宋体";
+    font-weight: 900;
+}
